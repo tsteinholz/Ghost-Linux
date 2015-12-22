@@ -11,7 +11,15 @@ This is my laptop computer I bought myself when I was in about the 6th grade for
 ## Software
 
 * BSPWM - Window Manager
+* CDM - Display Manager
 * SXHKD - Hotkey Manager
+* NetCtl - Netorking Manager
 * URXVT - Terminal Emulator
-* Tint3
+* Tint3 - Panel
 * ViM - Text Editor
+* Fish - Terminal Shell
+
+### GTK Customization
+| GTK+ | Icons | Cursor | Shell |
+|------|-------|--------|-------|
+|Arc Darker | EvoPop | Breeze Hacked |Darqclassic
