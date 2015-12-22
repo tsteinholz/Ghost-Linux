@@ -10,14 +10,14 @@ This is my laptop computer I bought myself when I was in about the 6th grade for
 
 ## Software
 
-* BSPWM - Window Manager
-* CDM - Display Manager
-* SXHKD - Hotkey Manager
-* NetCtl - Netorking Manager
-* URXVT - Terminal Emulator
-* Tint3 - Panel
-* ViM - Text Editor
-* Fish - Terminal Shell
+* [BSPWM](https://github.com/baskerville/bspwm) - Window Manager
+* [CDM](https://github.com/ghost1227/cdm) - Display Manager
+* [SXHKD](https://github.com/baskerville/sxhkd) - Hotkey Manager
+* [NetCtl](https://github.com/joukewitteveen/netctl) - Netorking Manager
+* [URXVT](https://wiki.archlinux.org/index.php/Rxvt-unicode) - Terminal Emulator
+* [ViM](http://www.vim.org/) - Text Editor
+* [Fish](https://github.com/fish-shell/fish-shell) - Terminal Shell
+* [Tint3]() - Panel (undesided)
 
 ### GTK Customization
 | GTK+ | Icons | Cursor | Shell |
