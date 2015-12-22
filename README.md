@@ -6,7 +6,7 @@ This is my laptop computer I bought myself when I was in about the 6th grade for
 
 | OS | Hostname | RAM | Swap | Hard Drive Space |
 |----|----------|-----|------|------------------|
-| Arch Linux | Ghost | 4G | 4G | 290G |
+| [Arch Linux](archlinux.org) | Ghost | 4G | 4G | 300G |
 
 ## Software
 
