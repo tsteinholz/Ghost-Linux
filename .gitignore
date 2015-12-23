@@ -1,0 +1,5 @@
+*
+!.config/*
+!.Xresources
+!.xinitrc
+!.gitignore
