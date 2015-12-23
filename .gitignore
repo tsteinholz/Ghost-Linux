@@ -1,5 +1,7 @@
 *
-!.config/*
+!.config/
+!.config/bspwm
+!.config/sxhkd
+!.config/fish
 !.Xresources
 !.xinitrc
-!.gitignore
