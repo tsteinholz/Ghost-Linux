@@ -14,7 +14,7 @@ URxvt*scrollBar: false
 URxvt*scrollBar_right: false 
 URxvt*scrollBar_floating: false
 URxvt*font: xft: Source Code Pro: pixelsize=11, syle=regular
-! URxvt*letterSpace: -5
+! URxvt*letterSpace: 1 
 URxvt*transparent:   true
 URxvt*shading:       10
 Xft.hinting: 1
