@@ -13,14 +13,11 @@ URxvt*skipScroll: true
 URxvt*scrollBar: false 
 URxvt*scrollBar_right: false 
 URxvt*scrollBar_floating: false
-URxvt*font: xft: Source Code Pro: pixelsize=8, syle=regular
-URxvt*letterSpace: -5
-! URxvt*font: Roboto-Reg:pixelsize:12
-! URxvt*boldFont: Roboto-Bold:pixelsize:12
-! URxvt*italicFont: Roboto-Italic:pixelsize=12
-! URxvt*boldItalicFont: Roboto-BoldItalic:pixelsize=12
+URxvt*font: xft: Source Code Pro: pixelsize=11, syle=regular
+! URxvt*letterSpace: -5
 URxvt*transparent:   true
 URxvt*shading:       10
+Xft.hinting: 1
 
 ! #########################################################################
 ! Colors
