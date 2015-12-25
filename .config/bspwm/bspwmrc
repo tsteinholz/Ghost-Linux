@@ -2,6 +2,8 @@
 
 sxhkd &
 
+bspc config top_padding          20
+
 bspc config border_width         2
 bspc config window_gap          12
 

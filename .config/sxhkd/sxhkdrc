@@ -70,6 +70,9 @@ super + {_,shift + }c
 super + bracket{left,right}
 	bspc desktop -f {prev,next}
 
+#control + alt + arrow{left,right}
+#	bspc desktop -f {prev,next}
+
 # focus the last node/desktop
 super + {grave,Tab}
 	bspc {node,desktop} -f last
